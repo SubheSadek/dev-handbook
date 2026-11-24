@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+
+# Private notes: anything with tokens, passwords or keys
+private/
+*.private.md
